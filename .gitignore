@@ -1,0 +1,12 @@
+*.deb
+/staysec_*.*
+/linux/staysec-start
+/linux/debian/files
+/linux/debian/*.log
+/linux/debian/*.substvars
+/linux/debian/*.debhelper
+/linux/debian/staysec/
+*.exe
+/windows/install_summary.nsh
+/windows/install_finish.nsh
+/windows/.wine
